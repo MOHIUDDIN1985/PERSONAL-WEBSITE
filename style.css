@@ -1,0 +1,29 @@
+body{
+    font-family: 'Fondamento', cursive;
+}
+h1{
+    color: orangered;
+}
+.First-para{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.First-para img{
+    width: 100%;
+}
+.Head-bg{
+    background-image: url(C:\GIT PROJECTS\WEB DEVELOPMENT\PERSONAL-WEBSITE\Images\personal-website\header-bg.png);
+    background-repeat: no-repeat;
+  }
+section{
+    height: 500px;
+}
+.Link-Button{
+    text-decoration: none;
+    background-color:lawngreen;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
