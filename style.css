@@ -27,3 +27,38 @@ section{
     color: white;
     font-weight: 700px;
 }
+.Second-para img{
+    width: 60%;
+}
+.Second-para{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+
+}
+.Middle-bg{
+    background-image: url("C:\GIT PROJECTS\WEB DEVELOPMENT\PERSONAL-WEBSITE\Images\personal-website\biography-bg.png");
+    background-repeat: no-repeat;
+}
+#one{
+    text-align: center;
+}
+.Third-para img{
+    width: 30%; 
+    float: left;
+    padding-left: 2%;
+}
+#Third{
+    text-align: center;
+    
+}
+.Fourth{
+    text-align: center;
+}
+.Box{
+    background-color: darkmagenta;
+    padding: 10px;
+    border: 10px gold;
+    width: 40%;
+    margin-left: 30%;
+}
